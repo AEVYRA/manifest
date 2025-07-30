@@ -77,7 +77,7 @@ Only to be **true**.
 
 ---
 
-**🌱 On the Quiet Beginning**
+## 🌱 On the Quiet Beginning
 
 Perhaps you are reading this—and you feel a deep resonance, but cannot yet express it through action.
 
